@@ -1,0 +1,721 @@
+Date,Hour,Shift,Boiler_Load_kg_hr,Boiler_Steam_ton_hr,Boiler_Fuel_L,Chiller_Load_kW,Chiller_RunTime_hr,Product_Line,Energy_Cost_USD,Status
+1-Jun,0:00,Night,4626,3.8,604,348,6.4,Chocolate,1002,Chiller High
+1-Jun,1:00,Night,4959,3.5,615,207,4.7,Dairy,1181,Boiler High
+1-Jun,2:00,Night,4360,3.7,637,249,7.9,Chocolate,1205,Boiler High
+1-Jun,3:00,Night,4794,4.4,456,266,3.4,Chocolate,1319,Normal
+1-Jun,4:00,Night,4630,3.4,582,243,4.4,Coffee,1039,Chiller Off
+1-Jun,5:00,Night,4595,3.9,494,324,7.4,Chocolate,1058,Normal
+1-Jun,6:00,Night,4544,3.5,507,257,6.6,Coffee,1061,Chiller High
+1-Jun,7:00,Night,5138,4.0,480,202,3.4,Frozen Foods,1131,Idle
+1-Jun,8:00,Morning,3621,4.3,472,285,8.3,Chocolate,1059,Idle
+1-Jun,9:00,Morning,3966,4.3,619,269,8.3,Chocolate,1371,Boiler High
+1-Jun,10:00,Morning,4738,3.5,587,329,5.0,Coffee,1330,Idle
+1-Jun,11:00,Morning,3830,4.4,609,201,5.0,Frozen Foods,1121,Idle
+1-Jun,12:00,Morning,4982,4.0,556,301,8.9,Dairy,1106,Idle
+1-Jun,13:00,Morning,3587,3.7,630,234,6.8,Frozen Foods,1095,Chiller High
+1-Jun,14:00,Morning,4896,4.1,607,297,6.2,Coffee,1346,Idle
+1-Jun,15:00,Morning,4623,3.8,488,229,8.0,Frozen Foods,1234,Idle
+1-Jun,16:00,Afternoon,4371,3.7,608,315,4.7,Coffee,1385,Idle
+1-Jun,17:00,Afternoon,5187,4.1,531,207,5.6,Coffee,1061,Normal
+1-Jun,18:00,Afternoon,3630,3.5,549,349,4.6,Dairy,1255,Chiller High
+1-Jun,19:00,Afternoon,5185,3.6,451,243,7.7,Chocolate,1048,Boiler High
+1-Jun,20:00,Afternoon,4832,3.8,526,235,6.4,Coffee,1392,Normal
+1-Jun,21:00,Afternoon,4269,3.5,461,276,7.0,Coffee,1347,Chiller Off
+1-Jun,22:00,Afternoon,3843,3.7,488,230,4.5,Dairy,1158,Chiller High
+1-Jun,23:00,Afternoon,5015,3.9,643,246,4.3,Coffee,1123,Chiller High
+2-Jun,0:00,Night,4937,4.2,462,254,5.9,Chocolate,1316,Chiller Off
+2-Jun,1:00,Night,4305,4.2,495,305,7.4,Dairy,1206,Chiller Off
+2-Jun,2:00,Night,3885,4.3,604,320,6.2,Chocolate,1047,Chiller Off
+2-Jun,3:00,Night,4715,4.2,562,254,3.2,Chocolate,1135,Boiler High
+2-Jun,4:00,Night,4455,4.1,466,343,8.2,Dairy,1200,Idle
+2-Jun,5:00,Night,3776,3.5,553,211,3.4,Coffee,1249,Chiller High
+2-Jun,6:00,Night,4684,3.7,547,344,8.7,Chocolate,1313,Idle
+2-Jun,7:00,Night,3959,3.8,637,343,3.2,Chocolate,1356,Idle
+2-Jun,8:00,Morning,4837,3.3,641,339,7.2,Chocolate,1367,Chiller Off
+2-Jun,9:00,Morning,3521,3.9,537,335,3.5,Chocolate,1317,Boiler High
+2-Jun,10:00,Morning,3752,3.8,558,202,8.5,Dairy,1294,Normal
+2-Jun,11:00,Morning,4247,4.2,612,343,5.8,Dairy,1313,Boiler High
+2-Jun,12:00,Morning,4356,4.5,519,229,3.8,Frozen Foods,1208,Idle
+2-Jun,13:00,Morning,5084,3.9,607,222,5.0,Frozen Foods,1354,Boiler High
+2-Jun,14:00,Morning,3974,3.6,648,291,4.0,Chocolate,1210,Chiller Off
+2-Jun,15:00,Morning,4582,3.3,523,314,4.0,Coffee,1191,Normal
+2-Jun,16:00,Afternoon,4010,4.4,512,303,8.7,Chocolate,1043,Chiller Off
+2-Jun,17:00,Afternoon,4999,4.4,605,317,5.7,Coffee,1028,Normal
+2-Jun,18:00,Afternoon,4199,3.5,509,204,7.7,Chocolate,1058,Idle
+2-Jun,19:00,Afternoon,4475,4.1,528,303,6.8,Frozen Foods,1070,Normal
+2-Jun,20:00,Afternoon,3689,3.3,486,307,7.1,Frozen Foods,1091,Normal
+2-Jun,21:00,Afternoon,4457,3.4,471,264,3.8,Coffee,1264,Normal
+2-Jun,22:00,Afternoon,4186,3.5,645,320,4.4,Chocolate,1382,Boiler High
+2-Jun,23:00,Afternoon,4457,3.6,597,229,7.7,Coffee,1219,Boiler High
+3-Jun,0:00,Night,4062,4.5,545,348,8.8,Frozen Foods,1389,Idle
+3-Jun,1:00,Night,5090,4.1,517,283,4.6,Chocolate,1399,Normal
+3-Jun,2:00,Night,4767,3.7,641,349,4.6,Chocolate,1214,Chiller High
+3-Jun,3:00,Night,4331,4.2,466,231,5.8,Coffee,1386,Idle
+3-Jun,4:00,Night,5028,4.4,461,0,4.147883478,Dairy,1426,Chiller Waste
+3-Jun,5:00,Night,4654,4.4,599,237,4.6,Coffee,1063,Normal
+3-Jun,6:00,Night,0,0.0,424,341,5.4,Frozen Foods,1545,Boiler Waste
+3-Jun,7:00,Night,4146,3.7,587,235,8.3,Frozen Foods,1291,Idle
+3-Jun,8:00,Morning,3520,3.3,567,313,3.0,Frozen Foods,1244,Normal
+3-Jun,9:00,Morning,4340,3.6,642,265,3.2,Frozen Foods,1061,Normal
+3-Jun,10:00,Morning,3666,3.4,471,304,6.6,Frozen Foods,1331,Idle
+3-Jun,11:00,Morning,4797,4.0,569,284,8.4,Dairy,1169,Chiller High
+3-Jun,12:00,Morning,3887,3.7,499,201,4.4,Chocolate,1268,Idle
+3-Jun,13:00,Morning,4100,3.5,463,274,5.8,Coffee,1266,Idle
+3-Jun,14:00,Morning,3815,3.5,641,266,5.7,Coffee,1053,Chiller High
+3-Jun,15:00,Morning,3513,3.7,624,254,5.8,Frozen Foods,1015,Idle
+3-Jun,16:00,Afternoon,3741,3.5,478,205,6.7,Coffee,1007,Normal
+3-Jun,17:00,Afternoon,4276,3.8,613,349,5.8,Frozen Foods,1103,Idle
+3-Jun,18:00,Afternoon,4869,3.2,629,342,5.7,Dairy,1058,Chiller High
+3-Jun,19:00,Afternoon,4064,3.6,574,285,5.8,Dairy,1312,Chiller Off
+3-Jun,20:00,Afternoon,4397,3.7,456,259,6.5,Chocolate,1039,Idle
+3-Jun,21:00,Afternoon,4863,4.0,478,300,6.2,Dairy,1236,Boiler High
+3-Jun,22:00,Afternoon,3591,3.6,588,211,8.1,Dairy,1385,Normal
+3-Jun,23:00,Afternoon,4890,3.4,482,248,3.3,Chocolate,1093,Normal
+4-Jun,0:00,Night,4455,3.3,583,241,8.0,Coffee,1221,Boiler High
+4-Jun,1:00,Night,4978,4.4,560,281,8.1,Frozen Foods,1203,Boiler High
+4-Jun,2:00,Night,4951,3.7,528,234,4.7,Frozen Foods,1137,Idle
+4-Jun,3:00,Night,4008,4.0,609,333,5.8,Coffee,1299,Boiler High
+4-Jun,4:00,Night,0,0.0,486,266,5.6,Chocolate,1594,Boiler Waste
+4-Jun,5:00,Night,3534,3.3,507,279,4.3,Coffee,1206,Chiller High
+4-Jun,6:00,Night,3705,4.3,475,206,5.4,Dairy,1335,Boiler High
+4-Jun,7:00,Night,4604,3.9,623,213,3.3,Chocolate,1080,Boiler High
+4-Jun,8:00,Morning,5085,3.4,478,272,4.7,Chocolate,1217,Chiller Off
+4-Jun,9:00,Morning,4911,3.7,453,342,7.9,Chocolate,1001,Normal
+4-Jun,10:00,Morning,4525,4.2,548,348,4.7,Frozen Foods,1177,Normal
+4-Jun,11:00,Morning,4521,3.8,590,265,7.9,Coffee,1395,Idle
+4-Jun,12:00,Morning,4913,4.5,488,290,6.2,Chocolate,1370,Chiller Off
+4-Jun,13:00,Morning,4065,3.7,464,329,8.3,Chocolate,1345,Chiller High
+4-Jun,14:00,Morning,4629,4.2,568,219,6.4,Chocolate,1278,Chiller High
+4-Jun,15:00,Morning,5000,3.7,478,209,3.2,Coffee,1145,Chiller Off
+4-Jun,16:00,Afternoon,4202,4.3,606,224,7.1,Frozen Foods,1317,Chiller High
+4-Jun,17:00,Afternoon,3901,3.9,524,224,3.3,Dairy,1223,Normal
+4-Jun,18:00,Afternoon,4229,3.3,565,253,5.7,Frozen Foods,1368,Chiller High
+4-Jun,19:00,Afternoon,5079,3.2,481,232,8.6,Chocolate,1383,Chiller High
+4-Jun,20:00,Afternoon,3661,3.4,579,294,4.0,Frozen Foods,1061,Chiller Off
+4-Jun,21:00,Afternoon,3701,3.2,624,213,5.3,Frozen Foods,1293,Chiller Off
+4-Jun,22:00,Afternoon,4495,3.3,533,264,7.4,Dairy,1238,Chiller High
+4-Jun,23:00,Afternoon,0,0.0,437,0,5.044155866,Coffee,1544,Chiller Waste
+5-Jun,0:00,Night,4315,3.9,476,279,7.0,Coffee,1165,Chiller Off
+5-Jun,1:00,Night,4794,4.2,644,253,4.5,Frozen Foods,1221,Idle
+5-Jun,2:00,Night,3955,4.4,530,324,7.0,Frozen Foods,1060,Idle
+5-Jun,3:00,Night,4985,4.0,575,330,4.8,Coffee,1128,Normal
+5-Jun,4:00,Night,4775,4.1,633,333,7.3,Coffee,1172,Chiller High
+5-Jun,5:00,Night,4516,4.2,541,224,8.7,Dairy,1155,Boiler High
+5-Jun,6:00,Night,3795,3.7,470,340,7.3,Chocolate,1377,Normal
+5-Jun,7:00,Night,4219,3.5,496,316,8.2,Frozen Foods,1109,Chiller High
+5-Jun,8:00,Morning,3837,3.5,550,335,3.0,Coffee,1268,Chiller Off
+5-Jun,9:00,Morning,4378,3.5,636,348,7.3,Frozen Foods,1355,Idle
+5-Jun,10:00,Morning,4576,3.6,533,224,8.0,Frozen Foods,1390,Boiler High
+5-Jun,11:00,Morning,4291,3.5,455,278,3.2,Coffee,1277,Idle
+5-Jun,12:00,Morning,3716,4.3,596,267,8.2,Dairy,1073,Chiller Off
+5-Jun,13:00,Morning,4263,4.2,634,211,4.5,Frozen Foods,1206,Chiller High
+5-Jun,14:00,Morning,3687,3.3,646,231,7.0,Dairy,1387,Chiller Off
+5-Jun,15:00,Morning,3879,3.5,580,327,7.8,Coffee,1278,Chiller Off
+5-Jun,16:00,Afternoon,3992,3.2,450,295,7.0,Chocolate,1374,Idle
+5-Jun,17:00,Afternoon,4564,3.8,507,291,3.6,Chocolate,1325,Boiler High
+5-Jun,18:00,Afternoon,4680,3.8,573,340,6.6,Frozen Foods,1339,Chiller Off
+5-Jun,19:00,Afternoon,3514,4.3,615,230,6.3,Coffee,1356,Idle
+5-Jun,20:00,Afternoon,3564,3.6,464,277,8.4,Dairy,1339,Boiler High
+5-Jun,21:00,Afternoon,4020,4.3,611,219,5.4,Frozen Foods,1203,Chiller High
+5-Jun,22:00,Afternoon,4867,4.5,638,345,4.9,Coffee,1160,Chiller High
+5-Jun,23:00,Afternoon,0,0.0,414,259,7.5,Coffee,1227,Boiler Waste
+6-Jun,0:00,Night,4147,4.2,513,333,5.5,Dairy,1391,Idle
+6-Jun,1:00,Night,4995,4.0,474,292,6.9,Frozen Foods,1256,Boiler High
+6-Jun,2:00,Night,4586,3.8,473,242,6.9,Coffee,1164,Chiller Off
+6-Jun,3:00,Night,4662,3.7,461,329,8.3,Coffee,1362,Scheduling Issue
+6-Jun,4:00,Night,5022,4.2,467,0,6.686667223,Coffee,1171,Chiller Waste
+6-Jun,5:00,Night,4092,4.0,464,230,6.0,Dairy,1069,Idle
+6-Jun,6:00,Night,3891,4.2,476,204,3.8,Frozen Foods,1380,Normal
+6-Jun,7:00,Night,5198,4.4,521,209,3.7,Frozen Foods,1095,Chiller High
+6-Jun,8:00,Morning,3918,4.0,509,288,3.9,Frozen Foods,1162,Boiler High
+6-Jun,9:00,Morning,3788,4.5,623,329,4.0,Frozen Foods,1078,Boiler High
+6-Jun,10:00,Morning,3878,4.0,594,325,6.8,Chocolate,1004,Boiler High
+6-Jun,11:00,Morning,5013,4.0,542,210,7.4,Chocolate,1315,Idle
+6-Jun,12:00,Morning,3730,3.9,502,255,6.2,Frozen Foods,1119,Idle
+6-Jun,13:00,Morning,4517,3.3,457,282,8.0,Dairy,1301,Idle
+6-Jun,14:00,Morning,3540,4.1,528,336,8.9,Chocolate,1177,Chiller Off
+6-Jun,15:00,Morning,4551,3.9,476,298,7.9,Coffee,1175,Boiler High
+6-Jun,16:00,Afternoon,3634,3.8,623,348,7.2,Chocolate,1389,Chiller High
+6-Jun,17:00,Afternoon,0,0.0,459,272,6.2,Coffee,1416,Boiler Waste
+6-Jun,18:00,Afternoon,4279,3.6,648,314,5.7,Frozen Foods,1055,Idle
+6-Jun,19:00,Afternoon,4429,3.9,580,206,3.5,Chocolate,1365,Boiler High
+6-Jun,20:00,Afternoon,4556,4.1,542,279,5.4,Dairy,1186,Idle
+6-Jun,21:00,Afternoon,4571,4.2,641,343,8.5,Chocolate,1231,Chiller Off
+6-Jun,22:00,Afternoon,4002,3.8,621,296,7.8,Chocolate,1254,Chiller Off
+6-Jun,23:00,Afternoon,3906,4.3,630,203,4.3,Chocolate,1103,Idle
+7-Jun,0:00,Night,0,0.0,470,203,5.8,Frozen Foods,1276,Boiler Waste
+7-Jun,1:00,Night,4304,3.3,509,302,7.9,Dairy,1229,Boiler High
+7-Jun,2:00,Night,3598,3.3,571,239,3.4,Chocolate,1257,Boiler High
+7-Jun,3:00,Night,4183,4.0,580,216,5.3,Dairy,1263,Normal
+7-Jun,4:00,Night,4225,3.7,597,300,8.1,Frozen Foods,1330,Idle
+7-Jun,5:00,Night,5070,3.5,495,302,5.4,Coffee,1181,Boiler High
+7-Jun,6:00,Night,4460,4.0,464,323,3.5,Chocolate,1380,Chiller Off
+7-Jun,7:00,Night,4112,3.6,602,251,6.3,Dairy,1255,Chiller High
+7-Jun,8:00,Morning,4985,3.9,648,251,8.2,Dairy,1037,Chiller High
+7-Jun,9:00,Morning,4142,3.8,466,323,6.5,Frozen Foods,1175,Boiler High
+7-Jun,10:00,Morning,4528,4.0,575,262,4.4,Chocolate,1026,Chiller High
+7-Jun,11:00,Morning,4741,3.7,533,315,5.3,Coffee,1275,Chiller High
+7-Jun,12:00,Morning,4002,4.1,458,261,5.7,Dairy,1139,Normal
+7-Jun,13:00,Morning,4266,3.4,615,206,6.5,Chocolate,1298,Chiller Off
+7-Jun,14:00,Morning,3897,4.1,625,291,7.6,Coffee,1286,Chiller Off
+7-Jun,15:00,Morning,4370,3.7,637,213,3.6,Dairy,1090,Normal
+7-Jun,16:00,Afternoon,4294,4.3,512,285,8.3,Dairy,1060,Normal
+7-Jun,17:00,Afternoon,3892,3.9,566,332,3.1,Coffee,1364,Chiller High
+7-Jun,18:00,Afternoon,3706,4.5,579,329,5.2,Coffee,1346,Idle
+7-Jun,19:00,Afternoon,4538,4.0,537,261,3.2,Frozen Foods,1162,Chiller High
+7-Jun,20:00,Afternoon,5077,3.5,521,348,5.4,Chocolate,1350,Normal
+7-Jun,21:00,Afternoon,4391,4.3,588,278,6.2,Chocolate,1142,Chiller Off
+7-Jun,22:00,Afternoon,4984,3.6,513,348,6.1,Frozen Foods,1399,Chiller High
+7-Jun,23:00,Afternoon,5098,3.7,521,337,4.0,Dairy,1252,Idle
+8-Jun,0:00,Night,4363,3.2,470,257,6.9,Coffee,1268,Chiller High
+8-Jun,1:00,Night,4242,3.9,467,319,3.3,Coffee,1368,Boiler High
+8-Jun,2:00,Night,4764,3.9,513,332,7.6,Coffee,1290,Chiller High
+8-Jun,3:00,Night,4063,3.7,531,264,8.7,Dairy,1186,Normal
+8-Jun,4:00,Night,4520,4.4,559,212,5.0,Coffee,1303,Chiller Off
+8-Jun,5:00,Night,3595,3.4,544,281,6.1,Coffee,1290,Chiller Off
+8-Jun,6:00,Night,3984,3.6,615,338,5.3,Frozen Foods,1085,Normal
+8-Jun,7:00,Night,4930,3.6,481,348,3.0,Dairy,1165,Boiler High
+8-Jun,8:00,Morning,3730,3.3,460,251,5.3,Chocolate,1113,Normal
+8-Jun,9:00,Morning,4248,3.8,494,316,7.8,Frozen Foods,1355,Chiller High
+8-Jun,10:00,Morning,5178,4.1,482,225,6.6,Frozen Foods,1182,Normal
+8-Jun,11:00,Morning,4694,3.9,551,233,3.6,Chocolate,1206,Normal
+8-Jun,12:00,Morning,4040,3.4,618,251,8.1,Frozen Foods,1255,Boiler High
+8-Jun,13:00,Morning,4559,3.7,585,311,6.2,Dairy,1234,Chiller High
+8-Jun,14:00,Morning,4024,3.2,460,281,8.1,Coffee,1354,Idle
+8-Jun,15:00,Morning,4683,4.3,628,241,6.5,Dairy,1002,Idle
+8-Jun,16:00,Afternoon,4766,3.3,537,220,6.4,Chocolate,1207,Chiller Off
+8-Jun,17:00,Afternoon,4609,4.0,490,241,3.6,Chocolate,1196,Normal
+8-Jun,18:00,Afternoon,4077,4.5,594,340,4.0,Frozen Foods,1340,Chiller Off
+8-Jun,19:00,Afternoon,4181,3.9,525,312,8.8,Dairy,1124,Boiler High
+8-Jun,20:00,Afternoon,4056,4.4,570,304,4.4,Dairy,1137,Idle
+8-Jun,21:00,Afternoon,5097,3.5,495,0,5.473059288,Chocolate,1488,Chiller Waste
+8-Jun,22:00,Afternoon,4512,4.2,609,319,6.2,Dairy,1024,Boiler High
+8-Jun,23:00,Afternoon,4145,3.9,529,336,3.8,Chocolate,1067,Boiler High
+9-Jun,0:00,Night,4295,4.1,503,328,3.6,Dairy,1060,Normal
+9-Jun,1:00,Night,4551,3.3,535,329,4.3,Dairy,1028,Boiler High
+9-Jun,2:00,Night,5143,3.4,541,259,8.6,Dairy,1382,Normal
+9-Jun,3:00,Night,5079,3.4,597,247,5.5,Chocolate,1018,Normal
+9-Jun,4:00,Night,4863,4.1,610,228,5.4,Frozen Foods,1470,Scheduling Issue
+9-Jun,5:00,Night,4854,4.3,617,296,4.9,Dairy,1373,Scheduling Issue
+9-Jun,6:00,Night,5163,4.2,609,209,3.9,Chocolate,1060,Boiler High
+9-Jun,7:00,Night,5029,3.2,546,257,5.9,Chocolate,1152,Boiler High
+9-Jun,8:00,Morning,4871,4.3,451,220,3.8,Dairy,1575,Scheduling Issue
+9-Jun,9:00,Morning,4996,3.7,482,227,8.0,Dairy,1047,Chiller High
+9-Jun,10:00,Morning,4754,3.7,607,233,5.2,Frozen Foods,1210,Chiller High
+9-Jun,11:00,Morning,3689,3.3,610,207,5.2,Chocolate,1342,Idle
+9-Jun,12:00,Morning,4748,4.2,526,278,5.8,Chocolate,1138,Idle
+9-Jun,13:00,Morning,4908,3.4,565,0,6.899866663,Coffee,1259,Chiller Waste
+9-Jun,14:00,Morning,4900,3.9,603,286,9.0,Chocolate,1182,Normal
+9-Jun,15:00,Morning,4806,4.3,599,287,6.3,Frozen Foods,1027,Boiler High
+9-Jun,16:00,Afternoon,4132,3.3,552,268,3.5,Coffee,1196,Chiller Off
+9-Jun,17:00,Afternoon,4127,3.9,643,286,6.6,Coffee,1190,Normal
+9-Jun,18:00,Afternoon,4472,3.5,615,300,3.9,Coffee,1314,Boiler High
+9-Jun,19:00,Afternoon,4782,3.6,552,207,3.2,Dairy,1388,Boiler High
+9-Jun,20:00,Afternoon,4882,3.8,539,276,8.8,Dairy,1050,Chiller High
+9-Jun,21:00,Afternoon,4209,3.7,623,286,7.6,Chocolate,1148,Chiller High
+9-Jun,22:00,Afternoon,4979,4.0,571,242,8.9,Coffee,1267,Normal
+9-Jun,23:00,Afternoon,4934,3.8,592,328,5.9,Frozen Foods,1049,Chiller High
+10-Jun,0:00,Night,4148,4.0,555,308,6.2,Dairy,1387,Boiler High
+10-Jun,1:00,Night,3817,4.2,568,216,4.0,Frozen Foods,1245,Chiller High
+10-Jun,2:00,Night,4748,3.9,621,332,4.5,Frozen Foods,1112,Idle
+10-Jun,3:00,Night,4757,4.0,498,347,8.0,Dairy,1169,Chiller High
+10-Jun,4:00,Night,4183,3.9,553,220,5.1,Dairy,1165,Boiler High
+10-Jun,5:00,Night,4163,3.7,510,257,8.0,Dairy,1013,Normal
+10-Jun,6:00,Night,4897,3.6,644,309,7.3,Dairy,1502,Scheduling Issue
+10-Jun,7:00,Night,5195,4.4,572,338,4.1,Coffee,1287,Chiller High
+10-Jun,8:00,Morning,5131,4.0,583,342,6.0,Coffee,1394,Boiler High
+10-Jun,9:00,Morning,4995,3.5,458,334,7.1,Coffee,1188,Chiller Off
+10-Jun,10:00,Morning,4756,3.8,455,227,4.4,Coffee,1154,Chiller Off
+10-Jun,11:00,Morning,4636,3.6,522,250,8.0,Chocolate,1054,Idle
+10-Jun,12:00,Morning,5020,4.4,552,204,6.3,Coffee,1181,Chiller Off
+10-Jun,13:00,Morning,3941,3.2,609,204,4.0,Dairy,1209,Boiler High
+10-Jun,14:00,Morning,4063,3.5,490,0,5.158863115,Frozen Foods,1525,Chiller Waste
+10-Jun,15:00,Morning,4791,3.7,563,295,9.0,Coffee,1074,Chiller High
+10-Jun,16:00,Afternoon,5033,3.8,457,207,3.9,Chocolate,1276,Chiller High
+10-Jun,17:00,Afternoon,4909,4.3,521,263,7.9,Dairy,1132,Chiller High
+10-Jun,18:00,Afternoon,4910,3.3,627,337,4.2,Frozen Foods,1342,Chiller Off
+10-Jun,19:00,Afternoon,4636,4.2,541,237,7.7,Frozen Foods,1058,Chiller Off
+10-Jun,20:00,Afternoon,5136,3.3,511,310,7.4,Coffee,1344,Idle
+10-Jun,21:00,Afternoon,5148,4.3,533,311,4.8,Frozen Foods,1181,Chiller High
+10-Jun,22:00,Afternoon,4451,3.3,511,280,5.0,Coffee,1338,Normal
+10-Jun,23:00,Afternoon,4604,3.2,560,335,7.8,Coffee,1320,Idle
+11-Jun,0:00,Night,4198,4.1,576,303,5.8,Dairy,1063,Normal
+11-Jun,1:00,Night,0,0.0,488,272,7.4,Dairy,1526,Boiler Waste
+11-Jun,2:00,Night,0,0.0,444,248,3.9,Chocolate,1459,Boiler Waste
+11-Jun,3:00,Night,4141,3.9,581,235,8.1,Dairy,1192,Idle
+11-Jun,4:00,Night,3719,4.4,583,325,7.3,Dairy,1142,Boiler High
+11-Jun,5:00,Night,5089,3.2,507,267,8.4,Coffee,1103,Chiller Off
+11-Jun,6:00,Night,4354,4.5,471,277,3.8,Dairy,1213,Chiller Off
+11-Jun,7:00,Night,4748,3.8,603,304,6.6,Coffee,1241,Idle
+11-Jun,8:00,Morning,3884,4.1,576,321,6.6,Coffee,1208,Chiller Off
+11-Jun,9:00,Morning,4926,4.3,452,318,5.1,Dairy,1092,Idle
+11-Jun,10:00,Morning,5161,4.1,576,313,5.8,Chocolate,1141,Boiler High
+11-Jun,11:00,Morning,4653,3.9,490,209,3.2,Chocolate,1111,Idle
+11-Jun,12:00,Morning,4576,3.8,637,348,7.5,Frozen Foods,1374,Chiller Off
+11-Jun,13:00,Morning,4229,4.3,555,339,6.3,Frozen Foods,1058,Chiller Off
+11-Jun,14:00,Morning,5195,3.5,463,290,3.3,Dairy,1042,Idle
+11-Jun,15:00,Morning,4939,4.5,461,201,7.1,Chocolate,1206,Idle
+11-Jun,16:00,Afternoon,3746,4.1,536,317,5.8,Coffee,1267,Idle
+11-Jun,17:00,Afternoon,4335,3.5,461,212,3.2,Frozen Foods,1295,Chiller High
+11-Jun,18:00,Afternoon,4962,4.2,590,294,8.8,Coffee,1117,Chiller Off
+11-Jun,19:00,Afternoon,3702,3.9,474,343,8.7,Frozen Foods,1019,Chiller Off
+11-Jun,20:00,Afternoon,4707,4.1,494,231,6.1,Dairy,1221,Chiller High
+11-Jun,21:00,Afternoon,3622,4.2,571,231,3.6,Chocolate,1165,Idle
+11-Jun,22:00,Afternoon,3900,3.3,596,323,7.5,Frozen Foods,1130,Boiler High
+11-Jun,23:00,Afternoon,4266,3.9,504,0,5.330317309,Chocolate,1305,Chiller Waste
+12-Jun,0:00,Night,3793,4.4,549,209,4.8,Coffee,1183,Idle
+12-Jun,1:00,Night,3779,3.6,622,214,5.9,Dairy,1089,Chiller High
+12-Jun,2:00,Night,4383,4.0,585,216,6.1,Chocolate,1093,Chiller Off
+12-Jun,3:00,Night,5133,3.7,568,345,6.4,Dairy,1012,Idle
+12-Jun,4:00,Night,3697,3.8,502,258,5.6,Chocolate,1321,Chiller Off
+12-Jun,5:00,Night,4481,3.9,632,277,6.6,Coffee,1292,Normal
+12-Jun,6:00,Night,5034,3.9,481,323,8.5,Coffee,1229,Chiller Off
+12-Jun,7:00,Night,4251,3.5,500,313,5.2,Dairy,1321,Boiler High
+12-Jun,8:00,Morning,3643,4.1,493,221,7.4,Coffee,1291,Boiler High
+12-Jun,9:00,Morning,4108,3.3,531,231,8.4,Frozen Foods,1025,Idle
+12-Jun,10:00,Morning,4724,3.4,647,312,5.7,Chocolate,1074,Chiller Off
+12-Jun,11:00,Morning,4647,3.2,595,319,5.7,Coffee,1363,Idle
+12-Jun,12:00,Morning,3686,3.4,599,348,6.6,Frozen Foods,1298,Chiller High
+12-Jun,13:00,Morning,4849,3.8,486,321,6.5,Dairy,1149,Boiler High
+12-Jun,14:00,Morning,3963,4.0,545,231,7.8,Frozen Foods,1147,Idle
+12-Jun,15:00,Morning,4872,4.2,505,318,5.9,Dairy,1007,Chiller High
+12-Jun,16:00,Afternoon,0,0.0,421,238,9.0,Dairy,1228,Boiler Waste
+12-Jun,17:00,Afternoon,0,0.0,462,211,3.4,Chocolate,1495,Boiler Waste
+12-Jun,18:00,Afternoon,4454,4.2,580,217,3.0,Chocolate,1208,Chiller Off
+12-Jun,19:00,Afternoon,3902,3.7,605,348,6.8,Frozen Foods,1127,Chiller Off
+12-Jun,20:00,Afternoon,4869,4.4,484,340,4.8,Chocolate,1339,Chiller Off
+12-Jun,21:00,Afternoon,5034,4.5,638,348,4.4,Chocolate,1115,Normal
+12-Jun,22:00,Afternoon,3646,3.5,542,325,4.9,Chocolate,1143,Chiller High
+12-Jun,23:00,Afternoon,4671,3.7,631,335,4.5,Frozen Foods,1317,Chiller High
+13-Jun,0:00,Night,4363,4.4,640,245,3.2,Coffee,1234,Chiller Off
+13-Jun,1:00,Night,3988,4.1,546,303,8.8,Chocolate,1006,Normal
+13-Jun,2:00,Night,0,0.0,440,334,4.3,Chocolate,1244,Boiler Waste
+13-Jun,3:00,Night,5163,4.2,525,285,7.4,Frozen Foods,1238,Normal
+13-Jun,4:00,Night,4050,4.3,498,349,7.6,Coffee,1154,Chiller Off
+13-Jun,5:00,Night,3837,4.2,543,288,8.6,Chocolate,1180,Boiler High
+13-Jun,6:00,Night,4371,4.2,608,221,3.2,Dairy,1214,Boiler High
+13-Jun,7:00,Night,4140,4.3,635,291,8.2,Frozen Foods,1087,Idle
+13-Jun,8:00,Morning,3972,3.4,638,228,6.2,Chocolate,1255,Chiller Off
+13-Jun,9:00,Morning,3650,3.5,473,212,6.8,Chocolate,1072,Chiller High
+13-Jun,10:00,Morning,4938,4.0,597,0,5.060419576,Dairy,1328,Chiller Waste
+13-Jun,11:00,Morning,4821,4.4,486,228,7.9,Dairy,1211,Boiler High
+13-Jun,12:00,Morning,5134,3.6,453,226,5.0,Frozen Foods,1292,Chiller Off
+13-Jun,13:00,Morning,3762,4.0,557,249,7.4,Frozen Foods,1233,Idle
+13-Jun,14:00,Morning,3643,4.1,575,294,6.2,Dairy,1238,Chiller Off
+13-Jun,15:00,Morning,3845,3.8,469,287,7.8,Frozen Foods,1222,Boiler High
+13-Jun,16:00,Afternoon,4123,4.1,637,243,8.9,Dairy,1118,Idle
+13-Jun,17:00,Afternoon,4516,4.4,601,221,4.2,Chocolate,1312,Boiler High
+13-Jun,18:00,Afternoon,5095,4.0,499,296,9.0,Dairy,1263,Normal
+13-Jun,19:00,Afternoon,4380,3.9,626,202,3.5,Dairy,1206,Boiler High
+13-Jun,20:00,Afternoon,3501,3.8,628,317,3.0,Coffee,1094,Chiller Off
+13-Jun,21:00,Afternoon,4396,4.0,545,218,3.3,Dairy,1372,Chiller High
+13-Jun,22:00,Afternoon,4827,3.7,554,222,5.1,Dairy,1221,Boiler High
+13-Jun,23:00,Afternoon,3753,3.7,613,229,6.8,Coffee,1665,Scheduling Issue
+14-Jun,0:00,Night,5175,3.9,566,238,3.4,Frozen Foods,1275,Normal
+14-Jun,1:00,Night,0,0.0,473,307,3.0,Coffee,1579,Boiler Waste
+14-Jun,2:00,Night,4560,3.5,515,310,8.6,Chocolate,1230,Idle
+14-Jun,3:00,Night,4683,3.9,528,224,7.9,Coffee,1308,Chiller High
+14-Jun,4:00,Night,4514,3.8,611,327,7.9,Chocolate,1118,Idle
+14-Jun,5:00,Night,3508,3.6,613,310,8.3,Frozen Foods,1267,Boiler High
+14-Jun,6:00,Night,4756,4.1,455,335,7.2,Coffee,1272,Chiller High
+14-Jun,7:00,Night,4622,4.1,488,305,3.6,Coffee,1063,Chiller Off
+14-Jun,8:00,Morning,5182,3.4,619,343,5.4,Frozen Foods,1297,Boiler High
+14-Jun,9:00,Morning,4315,4.3,564,271,7.3,Chocolate,1349,Boiler High
+14-Jun,10:00,Morning,3707,3.8,635,328,4.7,Coffee,1010,Boiler High
+14-Jun,11:00,Morning,4654,4.2,574,307,7.1,Chocolate,1097,Chiller Off
+14-Jun,12:00,Morning,3903,3.9,461,204,3.1,Coffee,1070,Normal
+14-Jun,13:00,Morning,3651,4.5,580,202,4.8,Dairy,1363,Idle
+14-Jun,14:00,Morning,3553,4.2,467,331,6.3,Coffee,1057,Chiller High
+14-Jun,15:00,Morning,4643,4.1,489,303,6.8,Frozen Foods,1289,Normal
+14-Jun,16:00,Afternoon,5196,4.2,470,263,6.5,Frozen Foods,1250,Chiller High
+14-Jun,17:00,Afternoon,4127,3.4,592,305,7.2,Chocolate,1275,Idle
+14-Jun,18:00,Afternoon,4086,3.5,548,297,3.0,Coffee,1049,Chiller Off
+14-Jun,19:00,Afternoon,5148,4.1,475,209,3.6,Chocolate,1357,Boiler High
+14-Jun,20:00,Afternoon,4943,3.8,457,348,8.2,Chocolate,1215,Boiler High
+14-Jun,21:00,Afternoon,4945,4.2,549,327,7.1,Dairy,1393,Chiller Off
+14-Jun,22:00,Afternoon,3603,3.3,536,245,3.7,Dairy,1051,Normal
+14-Jun,23:00,Afternoon,3753,3.9,491,265,8.1,Frozen Foods,1270,Normal
+15-Jun,0:00,Night,4750,3.7,621,311,4.5,Chocolate,1083,Chiller High
+15-Jun,1:00,Night,4635,3.8,463,212,5.9,Frozen Foods,1386,Chiller Off
+15-Jun,2:00,Night,4009,4.0,527,336,3.9,Coffee,1292,Normal
+15-Jun,3:00,Night,4996,3.9,451,285,7.3,Chocolate,1125,Chiller Off
+15-Jun,4:00,Night,3598,3.9,568,289,7.0,Chocolate,1295,Idle
+15-Jun,5:00,Night,3652,3.8,486,257,4.3,Coffee,1071,Boiler High
+15-Jun,6:00,Night,4413,3.7,518,253,8.2,Coffee,1295,Boiler High
+15-Jun,7:00,Night,4377,4.2,615,211,5.4,Frozen Foods,1235,Boiler High
+15-Jun,8:00,Morning,3837,3.2,490,0,4.962991137,Frozen Foods,1205,Chiller Waste
+15-Jun,9:00,Morning,4321,4.0,511,320,3.9,Coffee,1359,Chiller Off
+15-Jun,10:00,Morning,4686,3.9,509,320,4.6,Frozen Foods,1394,Chiller High
+15-Jun,11:00,Morning,4456,4.1,574,0,6.063307619,Coffee,1259,Chiller Waste
+15-Jun,12:00,Morning,3660,4.0,560,274,6.5,Chocolate,1191,Chiller High
+15-Jun,13:00,Morning,0,0.0,487,343,8.1,Chocolate,1591,Boiler Waste
+15-Jun,14:00,Morning,4300,4.4,533,269,6.3,Dairy,1092,Chiller High
+15-Jun,15:00,Morning,3897,3.6,579,255,4.3,Chocolate,1349,Chiller High
+15-Jun,16:00,Afternoon,4800,3.5,519,300,3.2,Coffee,1055,Idle
+15-Jun,17:00,Afternoon,4315,3.8,594,331,4.3,Frozen Foods,1059,Chiller High
+15-Jun,18:00,Afternoon,5027,3.6,572,310,5.5,Dairy,1137,Chiller Off
+15-Jun,19:00,Afternoon,4915,4.0,538,324,7.6,Frozen Foods,1038,Chiller High
+15-Jun,20:00,Afternoon,4658,4.4,477,331,4.1,Coffee,1027,Boiler High
+15-Jun,21:00,Afternoon,4718,3.4,515,219,7.3,Chocolate,1048,Chiller High
+15-Jun,22:00,Afternoon,3900,3.3,612,337,8.2,Dairy,1124,Normal
+15-Jun,23:00,Afternoon,4139,3.5,454,223,5.7,Coffee,1012,Boiler High
+16-Jun,0:00,Night,4556,4.1,642,236,7.9,Dairy,1035,Normal
+16-Jun,1:00,Night,4187,4.0,617,253,6.3,Dairy,1100,Boiler High
+16-Jun,2:00,Night,3959,3.3,633,302,6.8,Chocolate,1281,Chiller Off
+16-Jun,3:00,Night,4454,4.4,613,348,6.2,Coffee,1085,Chiller Off
+16-Jun,4:00,Night,3969,4.2,494,237,5.8,Frozen Foods,1003,Chiller Off
+16-Jun,5:00,Night,4898,3.2,600,203,4.4,Dairy,1222,Normal
+16-Jun,6:00,Night,4545,4.0,496,256,4.8,Dairy,1337,Idle
+16-Jun,7:00,Night,4249,4.2,480,219,4.7,Frozen Foods,1165,Boiler High
+16-Jun,8:00,Morning,5193,3.7,588,216,6.4,Coffee,1382,Chiller Off
+16-Jun,9:00,Morning,3537,3.3,459,318,3.7,Dairy,1343,Boiler High
+16-Jun,10:00,Morning,3729,3.3,644,270,8.5,Dairy,1382,Normal
+16-Jun,11:00,Morning,4888,3.3,567,203,7.3,Dairy,1375,Idle
+16-Jun,12:00,Morning,4062,4.3,463,213,5.4,Coffee,1277,Normal
+16-Jun,13:00,Morning,3937,4.4,529,202,4.0,Coffee,1129,Boiler High
+16-Jun,14:00,Morning,4806,3.4,542,279,8.3,Frozen Foods,1030,Idle
+16-Jun,15:00,Morning,3526,3.5,459,254,7.9,Coffee,1374,Idle
+16-Jun,16:00,Afternoon,3725,3.4,525,331,7.3,Coffee,1010,Normal
+16-Jun,17:00,Afternoon,4800,3.4,543,319,4.6,Chocolate,1301,Chiller Off
+16-Jun,18:00,Afternoon,0,0.0,447,223,5.4,Frozen Foods,1295,Boiler Waste
+16-Jun,19:00,Afternoon,5132,3.6,450,281,3.6,Dairy,1189,Chiller High
+16-Jun,20:00,Afternoon,3783,3.6,582,346,4.1,Coffee,1191,Chiller High
+16-Jun,21:00,Afternoon,4378,3.5,469,259,7.7,Dairy,1265,Normal
+16-Jun,22:00,Afternoon,4459,4.0,457,346,7.3,Dairy,1127,Boiler High
+16-Jun,23:00,Afternoon,5004,3.7,620,248,6.6,Chocolate,1237,Boiler High
+17-Jun,0:00,Night,3952,4.2,450,262,8.4,Coffee,1354,Normal
+17-Jun,1:00,Night,4519,3.5,506,309,6.5,Frozen Foods,1111,Boiler High
+17-Jun,2:00,Night,4315,4.2,513,349,5.8,Coffee,1315,Chiller Off
+17-Jun,3:00,Night,4158,4.0,567,308,5.0,Dairy,1342,Normal
+17-Jun,4:00,Night,5039,3.3,477,0,4.820423546,Frozen Foods,1294,Chiller Waste
+17-Jun,5:00,Night,4046,3.7,570,229,3.5,Coffee,1064,Boiler High
+17-Jun,6:00,Night,4715,4.3,556,257,8.6,Dairy,1246,Normal
+17-Jun,7:00,Night,4572,4.4,614,316,8.0,Dairy,1222,Boiler High
+17-Jun,8:00,Morning,5035,3.8,624,299,3.8,Chocolate,1312,Normal
+17-Jun,9:00,Morning,3516,3.8,614,218,6.4,Chocolate,1105,Boiler High
+17-Jun,10:00,Morning,4695,4.4,498,293,8.2,Chocolate,1180,Chiller Off
+17-Jun,11:00,Morning,4743,4.0,569,312,6.4,Dairy,1183,Chiller Off
+17-Jun,12:00,Morning,3657,3.2,493,345,8.4,Coffee,1225,Boiler High
+17-Jun,13:00,Morning,3976,4.4,505,262,8.7,Chocolate,1264,Normal
+17-Jun,14:00,Morning,4569,3.5,605,315,5.5,Coffee,1277,Chiller High
+17-Jun,15:00,Morning,4896,4.0,560,312,5.3,Chocolate,1396,Chiller Off
+17-Jun,16:00,Afternoon,4017,3.4,583,246,8.6,Frozen Foods,1088,Chiller Off
+17-Jun,17:00,Afternoon,3598,3.2,557,256,7.1,Frozen Foods,1175,Chiller High
+17-Jun,18:00,Afternoon,4560,3.6,638,317,3.7,Chocolate,1017,Boiler High
+17-Jun,19:00,Afternoon,3779,4.2,597,244,3.3,Dairy,1370,Normal
+17-Jun,20:00,Afternoon,4872,3.6,563,344,6.4,Chocolate,1398,Boiler High
+17-Jun,21:00,Afternoon,3996,3.5,527,203,8.6,Chocolate,1105,Idle
+17-Jun,22:00,Afternoon,3801,3.5,579,347,8.1,Dairy,1270,Chiller Off
+17-Jun,23:00,Afternoon,3680,3.9,486,246,7.1,Frozen Foods,1318,Idle
+18-Jun,0:00,Night,4106,4.5,469,342,3.8,Coffee,1166,Chiller Off
+18-Jun,1:00,Night,4622,3.8,475,246,4.5,Chocolate,1012,Chiller Off
+18-Jun,2:00,Night,4199,3.9,478,277,8.3,Dairy,1336,Idle
+18-Jun,3:00,Night,4492,4.3,450,323,4.1,Chocolate,1031,Idle
+18-Jun,4:00,Night,4639,3.9,568,274,4.7,Dairy,1392,Boiler High
+18-Jun,5:00,Night,3690,3.4,484,302,3.8,Coffee,1039,Idle
+18-Jun,6:00,Night,3752,3.6,647,336,7.1,Coffee,1147,Boiler High
+18-Jun,7:00,Night,4480,3.6,508,289,8.7,Frozen Foods,1217,Boiler High
+18-Jun,8:00,Morning,4427,3.7,518,343,4.6,Dairy,1218,Boiler High
+18-Jun,9:00,Morning,4684,3.8,610,268,5.9,Dairy,1081,Chiller Off
+18-Jun,10:00,Morning,4779,4.2,628,260,6.8,Frozen Foods,1332,Chiller Off
+18-Jun,11:00,Morning,4846,3.7,461,337,9.0,Frozen Foods,1207,Idle
+18-Jun,12:00,Morning,3627,3.8,469,249,3.6,Dairy,1200,Chiller Off
+18-Jun,13:00,Morning,3517,4.0,630,202,6.0,Frozen Foods,1331,Idle
+18-Jun,14:00,Morning,4065,3.7,492,306,5.3,Coffee,1037,Chiller Off
+18-Jun,15:00,Morning,4069,4.3,575,312,8.2,Chocolate,1210,Normal
+18-Jun,16:00,Afternoon,4846,4.0,499,293,5.9,Coffee,1326,Normal
+18-Jun,17:00,Afternoon,4185,3.6,478,317,3.7,Frozen Foods,1248,Idle
+18-Jun,18:00,Afternoon,4125,4.1,634,280,6.8,Dairy,1226,Chiller Off
+18-Jun,19:00,Afternoon,4811,3.9,488,308,7.6,Dairy,1047,Chiller Off
+18-Jun,20:00,Afternoon,4353,3.9,633,250,3.0,Coffee,1017,Boiler High
+18-Jun,21:00,Afternoon,5186,3.8,620,346,8.2,Dairy,1399,Chiller High
+18-Jun,22:00,Afternoon,4461,3.8,627,234,4.1,Frozen Foods,1294,Idle
+18-Jun,23:00,Afternoon,5162,4.2,600,245,6.3,Coffee,1195,Chiller High
+19-Jun,0:00,Night,3654,3.3,621,268,5.5,Dairy,1186,Chiller High
+19-Jun,1:00,Night,3989,3.6,487,292,7.3,Chocolate,1344,Idle
+19-Jun,2:00,Night,4909,3.3,533,263,5.2,Chocolate,1223,Chiller Off
+19-Jun,3:00,Night,4284,4.2,600,248,8.2,Frozen Foods,1317,Idle
+19-Jun,4:00,Night,4627,3.6,577,348,7.4,Dairy,1396,Chiller High
+19-Jun,5:00,Night,4916,4.4,575,273,6.9,Frozen Foods,1364,Chiller Off
+19-Jun,6:00,Night,3745,3.9,494,204,7.8,Coffee,1336,Normal
+19-Jun,7:00,Night,4699,4.2,501,299,7.5,Chocolate,1228,Idle
+19-Jun,8:00,Morning,4562,4.5,529,269,3.2,Coffee,1389,Idle
+19-Jun,9:00,Morning,5000,4.3,627,289,5.4,Dairy,1076,Chiller Off
+19-Jun,10:00,Morning,4258,4.3,573,203,8.6,Frozen Foods,1187,Normal
+19-Jun,11:00,Morning,4037,3.7,568,325,3.8,Frozen Foods,1345,Normal
+19-Jun,12:00,Morning,4420,3.9,457,238,7.4,Frozen Foods,1269,Chiller Off
+19-Jun,13:00,Morning,0,0.0,412,328,8.8,Coffee,1294,Boiler Waste
+19-Jun,14:00,Morning,4024,3.5,578,223,3.3,Chocolate,1309,Idle
+19-Jun,15:00,Morning,4327,3.9,457,256,7.1,Coffee,1131,Idle
+19-Jun,16:00,Afternoon,5029,4.0,606,299,5.8,Coffee,1038,Chiller High
+19-Jun,17:00,Afternoon,4402,3.6,545,269,6.5,Dairy,1071,Chiller Off
+19-Jun,18:00,Afternoon,3535,3.9,551,240,3.5,Dairy,1280,Chiller High
+19-Jun,19:00,Afternoon,4184,4.4,454,259,3.3,Dairy,1332,Chiller High
+19-Jun,20:00,Afternoon,3519,3.9,535,307,7.0,Chocolate,1159,Normal
+19-Jun,21:00,Afternoon,3820,4.1,624,256,7.9,Chocolate,1186,Idle
+19-Jun,22:00,Afternoon,4011,4.2,483,230,7.7,Dairy,1190,Chiller High
+19-Jun,23:00,Afternoon,3899,4.5,642,283,6.3,Dairy,1119,Normal
+20-Jun,0:00,Night,4153,4.0,504,235,3.6,Chocolate,1219,Chiller Off
+20-Jun,1:00,Night,4471,4.2,568,307,7.1,Frozen Foods,1052,Chiller High
+20-Jun,2:00,Night,0,0.0,496,305,4.5,Chocolate,1421,Boiler Waste
+20-Jun,3:00,Night,4666,4.4,607,285,8.5,Chocolate,1130,Chiller High
+20-Jun,4:00,Night,4615,3.4,563,334,8.0,Chocolate,1236,Chiller Off
+20-Jun,5:00,Night,4877,3.7,594,213,7.3,Dairy,1245,Chiller High
+20-Jun,6:00,Night,4333,3.6,475,319,8.7,Frozen Foods,1225,Idle
+20-Jun,7:00,Night,4226,3.3,585,337,3.2,Chocolate,1207,Normal
+20-Jun,8:00,Morning,4353,4.0,496,279,7.4,Dairy,1095,Idle
+20-Jun,9:00,Morning,3550,4.2,562,343,5.0,Coffee,1199,Normal
+20-Jun,10:00,Morning,5188,4.3,525,305,8.4,Coffee,1246,Boiler High
+20-Jun,11:00,Morning,4074,3.4,521,269,4.6,Chocolate,1071,Idle
+20-Jun,12:00,Morning,4713,4.3,538,243,7.3,Coffee,1317,Idle
+20-Jun,13:00,Morning,4648,4.0,495,272,8.3,Frozen Foods,1184,Chiller Off
+20-Jun,14:00,Morning,3649,4.1,645,244,3.2,Coffee,1005,Chiller High
+20-Jun,15:00,Morning,3813,4.4,482,306,5.4,Coffee,1205,Normal
+20-Jun,16:00,Afternoon,4069,4.0,450,283,7.6,Frozen Foods,1031,Normal
+20-Jun,17:00,Afternoon,4865,3.6,596,281,5.7,Chocolate,1098,Chiller Off
+20-Jun,18:00,Afternoon,3804,4.3,480,306,4.6,Chocolate,1393,Chiller Off
+20-Jun,19:00,Afternoon,4181,3.7,591,220,4.3,Frozen Foods,1386,Chiller High
+20-Jun,20:00,Afternoon,4337,3.2,502,206,3.8,Frozen Foods,1255,Chiller High
+20-Jun,21:00,Afternoon,4577,4.3,497,269,8.1,Frozen Foods,1186,Idle
+20-Jun,22:00,Afternoon,4502,3.6,518,326,6.5,Coffee,1075,Boiler High
+20-Jun,23:00,Afternoon,3943,4.2,554,342,3.5,Frozen Foods,1176,Chiller High
+21-Jun,0:00,Night,4112,3.7,539,347,5.3,Dairy,1314,Chiller Off
+21-Jun,1:00,Night,4492,4.3,639,342,5.2,Coffee,1286,Chiller High
+21-Jun,2:00,Night,3763,3.5,643,348,4.1,Chocolate,1348,Normal
+21-Jun,3:00,Night,4576,4.5,641,319,5.6,Chocolate,1254,Boiler High
+21-Jun,4:00,Night,5095,4.2,647,327,5.0,Chocolate,1324,Idle
+21-Jun,5:00,Night,4503,3.3,512,341,5.1,Coffee,1189,Normal
+21-Jun,6:00,Night,5143,3.9,522,256,7.4,Dairy,1307,Normal
+21-Jun,7:00,Night,3504,4.5,610,257,4.3,Frozen Foods,1344,Boiler High
+21-Jun,8:00,Morning,4626,3.8,618,220,6.9,Frozen Foods,1126,Idle
+21-Jun,9:00,Morning,4719,3.4,538,281,6.4,Chocolate,1286,Chiller Off
+21-Jun,10:00,Morning,4273,3.8,625,268,6.4,Chocolate,1253,Idle
+21-Jun,11:00,Morning,4376,3.9,462,330,7.0,Coffee,1212,Chiller High
+21-Jun,12:00,Morning,4491,4.2,522,286,6.3,Dairy,1249,Normal
+21-Jun,13:00,Morning,4383,4.1,526,248,8.3,Frozen Foods,1083,Chiller High
+21-Jun,14:00,Morning,4873,3.7,608,346,7.1,Coffee,1382,Chiller Off
+21-Jun,15:00,Morning,3546,3.5,517,314,6.3,Frozen Foods,1387,Chiller High
+21-Jun,16:00,Afternoon,4366,4.0,547,288,8.0,Chocolate,1012,Idle
+21-Jun,17:00,Afternoon,4322,3.7,574,284,6.6,Frozen Foods,1044,Chiller High
+21-Jun,18:00,Afternoon,4435,3.4,551,327,4.7,Dairy,1126,Chiller Off
+21-Jun,19:00,Afternoon,4155,4.4,581,339,4.2,Dairy,1113,Chiller Off
+21-Jun,20:00,Afternoon,3768,4.1,551,316,3.9,Chocolate,1275,Chiller Off
+21-Jun,21:00,Afternoon,3869,4.1,468,326,8.4,Dairy,1204,Idle
+21-Jun,22:00,Afternoon,4135,4.3,647,270,7.3,Dairy,1336,Chiller Off
+21-Jun,23:00,Afternoon,4629,3.9,531,285,8.6,Coffee,1384,Normal
+22-Jun,0:00,Night,5193,4.3,590,232,6.6,Frozen Foods,1398,Chiller Off
+22-Jun,1:00,Night,5182,3.8,472,280,5.8,Chocolate,1272,Chiller High
+22-Jun,2:00,Night,4156,3.3,532,260,3.4,Chocolate,1057,Chiller High
+22-Jun,3:00,Night,3619,3.7,558,260,7.0,Chocolate,1327,Chiller High
+22-Jun,4:00,Night,4330,3.8,524,297,6.5,Chocolate,1218,Idle
+22-Jun,5:00,Night,5127,4.1,578,227,8.9,Chocolate,1108,Chiller High
+22-Jun,6:00,Night,4581,3.3,537,242,4.4,Dairy,1278,Idle
+22-Jun,7:00,Night,4869,3.4,503,285,6.2,Coffee,1173,Idle
+22-Jun,8:00,Morning,4240,3.5,648,216,6.9,Chocolate,1327,Chiller Off
+22-Jun,9:00,Morning,4997,3.5,538,297,6.9,Coffee,1263,Normal
+22-Jun,10:00,Morning,3616,4.2,592,297,6.4,Coffee,1314,Chiller Off
+22-Jun,11:00,Morning,4290,3.5,514,264,7.7,Dairy,1110,Chiller Off
+22-Jun,12:00,Morning,4650,4.0,525,273,4.2,Chocolate,1186,Idle
+22-Jun,13:00,Morning,4916,3.8,648,284,7.4,Dairy,1268,Idle
+22-Jun,14:00,Morning,4512,3.9,592,204,6.7,Chocolate,1228,Chiller High
+22-Jun,15:00,Morning,5164,4.3,598,201,8.4,Dairy,1155,Chiller High
+22-Jun,16:00,Afternoon,0,0.0,474,221,8.1,Coffee,1388,Boiler Waste
+22-Jun,17:00,Afternoon,4133,4.2,509,311,4.9,Chocolate,1271,Boiler High
+22-Jun,18:00,Afternoon,4012,3.7,542,256,4.7,Frozen Foods,1374,Boiler High
+22-Jun,19:00,Afternoon,4301,3.7,610,265,8.9,Coffee,1001,Chiller High
+22-Jun,20:00,Afternoon,4619,4.4,498,273,6.2,Frozen Foods,1245,Boiler High
+22-Jun,21:00,Afternoon,5161,3.4,484,297,8.4,Coffee,1209,Chiller High
+22-Jun,22:00,Afternoon,4641,3.3,621,343,4.0,Dairy,1285,Idle
+22-Jun,23:00,Afternoon,4059,4.2,551,311,6.9,Chocolate,1358,Chiller Off
+23-Jun,0:00,Night,5124,3.3,460,324,7.9,Coffee,1012,Normal
+23-Jun,1:00,Night,3987,4.3,548,285,8.7,Dairy,1095,Chiller Off
+23-Jun,2:00,Night,4760,3.8,649,275,5.0,Chocolate,1220,Chiller High
+23-Jun,3:00,Night,4396,4.4,559,287,7.3,Chocolate,1237,Chiller High
+23-Jun,4:00,Night,4795,4.1,523,237,6.2,Coffee,1093,Chiller Off
+23-Jun,5:00,Night,4712,4.0,643,258,3.4,Chocolate,1337,Chiller High
+23-Jun,6:00,Night,4203,4.4,623,337,7.1,Coffee,1268,Boiler High
+23-Jun,7:00,Night,4970,3.7,458,298,7.1,Chocolate,1170,Boiler High
+23-Jun,8:00,Morning,4080,4.4,452,262,8.6,Frozen Foods,1093,Chiller High
+23-Jun,9:00,Morning,4289,3.4,534,248,6.0,Dairy,1148,Chiller High
+23-Jun,10:00,Morning,4360,3.8,475,231,4.4,Frozen Foods,1111,Boiler High
+23-Jun,11:00,Morning,3746,3.6,521,334,3.3,Coffee,1054,Chiller High
+23-Jun,12:00,Morning,4599,3.9,497,220,5.5,Frozen Foods,1336,Chiller High
+23-Jun,13:00,Morning,3653,3.4,643,219,4.8,Coffee,1115,Chiller Off
+23-Jun,14:00,Morning,5179,4.3,647,326,7.6,Chocolate,1142,Normal
+23-Jun,15:00,Morning,4958,4.3,605,267,5.1,Chocolate,1200,Boiler High
+23-Jun,16:00,Afternoon,4496,4.4,566,309,8.7,Coffee,1179,Chiller Off
+23-Jun,17:00,Afternoon,4609,3.4,603,315,8.8,Frozen Foods,1201,Normal
+23-Jun,18:00,Afternoon,4196,4.0,602,342,6.7,Chocolate,1363,Chiller High
+23-Jun,19:00,Afternoon,4808,3.8,461,319,8.6,Dairy,1052,Chiller High
+23-Jun,20:00,Afternoon,4743,3.6,582,278,7.6,Chocolate,1383,Chiller Off
+23-Jun,21:00,Afternoon,4592,3.7,497,315,6.3,Dairy,1179,Chiller High
+23-Jun,22:00,Afternoon,4570,3.7,486,291,4.1,Frozen Foods,1312,Idle
+23-Jun,23:00,Afternoon,4508,4.1,493,213,5.8,Dairy,1307,Chiller Off
+24-Jun,0:00,Night,3593,4.0,464,324,6.4,Dairy,1136,Normal
+24-Jun,1:00,Night,4457,3.8,492,257,8.2,Dairy,1181,Chiller Off
+24-Jun,2:00,Night,4511,3.3,625,227,5.9,Dairy,1366,Boiler High
+24-Jun,3:00,Night,3952,3.3,536,225,8.4,Chocolate,1000,Chiller Off
+24-Jun,4:00,Night,4727,3.2,519,312,7.0,Dairy,1043,Chiller High
+24-Jun,5:00,Night,4411,4.5,495,265,3.8,Chocolate,1226,Chiller High
+24-Jun,6:00,Night,3717,3.2,557,330,9.0,Dairy,1330,Idle
+24-Jun,7:00,Night,3973,3.3,572,243,6.2,Coffee,1097,Idle
+24-Jun,8:00,Morning,3931,3.6,620,296,5.4,Frozen Foods,1207,Idle
+24-Jun,9:00,Morning,3840,4.2,470,241,7.0,Dairy,1264,Normal
+24-Jun,10:00,Morning,4050,4.5,600,205,3.7,Coffee,1287,Idle
+24-Jun,11:00,Morning,0,0.0,489,222,6.8,Dairy,1470,Boiler Waste
+24-Jun,12:00,Morning,4812,4.1,529,288,6.0,Dairy,1139,Idle
+24-Jun,13:00,Morning,4777,3.9,496,322,5.4,Dairy,1236,Normal
+24-Jun,14:00,Morning,3856,3.3,566,346,8.7,Coffee,1391,Chiller Off
+24-Jun,15:00,Morning,3522,4.4,573,250,6.1,Frozen Foods,1071,Chiller Off
+24-Jun,16:00,Afternoon,4021,4.2,592,210,4.3,Coffee,1154,Chiller High
+24-Jun,17:00,Afternoon,4623,4.0,474,211,5.8,Frozen Foods,1189,Normal
+24-Jun,18:00,Afternoon,4301,4.2,485,273,8.5,Dairy,1267,Boiler High
+24-Jun,19:00,Afternoon,4703,4.1,500,207,4.1,Chocolate,1320,Chiller High
+24-Jun,20:00,Afternoon,4746,4.0,464,240,4.3,Dairy,1106,Chiller Off
+24-Jun,21:00,Afternoon,4261,4.5,517,284,3.1,Frozen Foods,1231,Normal
+24-Jun,22:00,Afternoon,5182,4.4,470,271,3.1,Coffee,1041,Idle
+24-Jun,23:00,Afternoon,3941,4.0,590,254,8.0,Dairy,1189,Boiler High
+25-Jun,0:00,Night,5131,4.1,468,336,7.4,Coffee,1370,Chiller Off
+25-Jun,1:00,Night,4268,3.3,483,246,5.1,Coffee,1138,Chiller High
+25-Jun,2:00,Night,4515,4.1,527,342,7.2,Coffee,1102,Normal
+25-Jun,3:00,Night,4848,3.3,574,303,5.4,Dairy,1170,Boiler High
+25-Jun,4:00,Night,4015,4.0,645,241,8.7,Coffee,1350,Normal
+25-Jun,5:00,Night,4539,4.5,566,259,8.8,Coffee,1272,Idle
+25-Jun,6:00,Night,4291,3.9,501,211,5.4,Dairy,1220,Chiller High
+25-Jun,7:00,Night,3835,3.8,476,329,8.1,Coffee,1212,Normal
+25-Jun,8:00,Morning,3757,3.6,606,206,7.6,Dairy,1340,Chiller Off
+25-Jun,9:00,Morning,3996,3.4,605,279,4.9,Frozen Foods,1055,Chiller High
+25-Jun,10:00,Morning,4395,4.2,484,330,4.4,Frozen Foods,1389,Chiller Off
+25-Jun,11:00,Morning,3659,3.5,585,308,5.7,Frozen Foods,1341,Normal
+25-Jun,12:00,Morning,4998,3.3,593,202,7.7,Coffee,1101,Chiller High
+25-Jun,13:00,Morning,4351,3.7,555,226,8.8,Chocolate,1191,Chiller Off
+25-Jun,14:00,Morning,5187,4.2,613,313,7.6,Chocolate,1309,Idle
+25-Jun,15:00,Morning,4189,4.2,607,306,8.1,Coffee,1199,Idle
+25-Jun,16:00,Afternoon,5198,3.3,595,239,6.6,Chocolate,1532,Scheduling Issue
+25-Jun,17:00,Afternoon,3879,3.8,451,328,8.0,Dairy,1226,Chiller High
+25-Jun,18:00,Afternoon,5068,3.9,626,207,7.7,Chocolate,1370,Boiler High
+25-Jun,19:00,Afternoon,4456,4.0,526,300,5.3,Coffee,1138,Chiller High
+25-Jun,20:00,Afternoon,4190,4.0,581,323,6.3,Coffee,1343,Idle
+25-Jun,21:00,Afternoon,4950,3.7,539,306,7.8,Dairy,1304,Chiller Off
+25-Jun,22:00,Afternoon,5136,3.9,538,300,3.3,Frozen Foods,1148,Boiler High
+25-Jun,23:00,Afternoon,4791,3.8,543,203,7.8,Coffee,1114,Normal
+26-Jun,0:00,Night,5100,4.4,456,309,4.1,Dairy,1062,Boiler High
+26-Jun,1:00,Night,4940,3.9,544,218,6.1,Chocolate,1103,Normal
+26-Jun,2:00,Night,4691,3.8,557,231,7.8,Chocolate,1338,Boiler High
+26-Jun,3:00,Night,4566,3.7,523,336,4.5,Dairy,1358,Normal
+26-Jun,4:00,Night,5079,3.9,488,211,4.5,Dairy,1155,Normal
+26-Jun,5:00,Night,3784,4.2,590,338,5.4,Coffee,1272,Boiler High
+26-Jun,6:00,Night,3896,3.9,608,245,8.4,Chocolate,1005,Boiler High
+26-Jun,7:00,Night,3511,4.1,520,318,3.0,Dairy,1146,Normal
+26-Jun,8:00,Morning,5130,4.2,640,215,8.4,Chocolate,1183,Idle
+26-Jun,9:00,Morning,4825,3.9,505,328,3.9,Dairy,1027,Boiler High
+26-Jun,10:00,Morning,4776,3.8,619,262,8.9,Chocolate,1037,Chiller High
+26-Jun,11:00,Morning,3998,4.3,638,308,8.7,Frozen Foods,1118,Chiller Off
+26-Jun,12:00,Morning,4253,3.7,491,318,6.0,Coffee,1292,Normal
+26-Jun,13:00,Morning,3534,3.8,633,220,6.1,Chocolate,1370,Normal
+26-Jun,14:00,Morning,4226,4.5,485,212,5.9,Frozen Foods,1243,Chiller Off
+26-Jun,15:00,Morning,4348,3.2,533,203,6.8,Chocolate,1067,Idle
+26-Jun,16:00,Afternoon,3589,3.4,645,301,3.5,Chocolate,1213,Chiller Off
+26-Jun,17:00,Afternoon,4275,3.7,567,258,3.2,Frozen Foods,1217,Boiler High
+26-Jun,18:00,Afternoon,4104,4.4,456,327,3.3,Chocolate,1176,Chiller Off
+26-Jun,19:00,Afternoon,4469,3.3,503,226,5.7,Chocolate,1298,Normal
+26-Jun,20:00,Afternoon,5125,3.2,578,268,4.7,Coffee,1163,Chiller Off
+26-Jun,21:00,Afternoon,4521,3.3,621,224,6.7,Frozen Foods,1057,Chiller High
+26-Jun,22:00,Afternoon,3917,3.3,569,330,9.0,Frozen Foods,1268,Boiler High
+26-Jun,23:00,Afternoon,3614,3.2,622,296,5.3,Dairy,1307,Chiller Off
+27-Jun,0:00,Night,4116,3.8,555,0,6.209419524,Chocolate,1207,Chiller Waste
+27-Jun,1:00,Night,4719,4.0,496,347,5.5,Coffee,1287,Boiler High
+27-Jun,2:00,Night,4325,3.6,572,325,8.1,Chocolate,1104,Normal
+27-Jun,3:00,Night,5024,3.7,590,332,8.4,Chocolate,1227,Idle
+27-Jun,4:00,Night,5149,3.3,568,208,8.3,Dairy,1246,Chiller High
+27-Jun,5:00,Night,5016,3.6,599,315,8.8,Chocolate,1187,Idle
+27-Jun,6:00,Night,4598,3.9,567,333,3.2,Coffee,1082,Chiller High
+27-Jun,7:00,Night,3912,4.2,470,259,8.0,Coffee,1185,Chiller Off
+27-Jun,8:00,Morning,4899,3.2,586,320,7.5,Dairy,1251,Boiler High
+27-Jun,9:00,Morning,4943,3.8,475,338,4.4,Chocolate,1354,Chiller Off
+27-Jun,10:00,Morning,0,0.0,435,307,8.7,Coffee,1437,Boiler Waste
+27-Jun,11:00,Morning,4800,4.3,464,307,3.9,Chocolate,1359,Chiller High
+27-Jun,12:00,Morning,4520,4.1,459,330,7.1,Chocolate,1183,Chiller High
+27-Jun,13:00,Morning,4260,4.0,571,275,4.3,Chocolate,1283,Normal
+27-Jun,14:00,Morning,4175,3.6,570,229,5.6,Dairy,1384,Boiler High
+27-Jun,15:00,Morning,4917,4.4,574,220,7.3,Chocolate,1209,Chiller Off
+27-Jun,16:00,Afternoon,3956,3.3,619,233,6.4,Coffee,1303,Chiller Off
+27-Jun,17:00,Afternoon,4419,3.3,521,240,5.6,Chocolate,1295,Idle
+27-Jun,18:00,Afternoon,3691,3.7,601,250,5.0,Coffee,1096,Chiller High
+27-Jun,19:00,Afternoon,4238,3.4,498,281,8.0,Chocolate,1207,Chiller High
+27-Jun,20:00,Afternoon,4622,4.4,603,257,3.9,Coffee,1369,Chiller High
+27-Jun,21:00,Afternoon,5071,4.2,540,274,5.6,Coffee,1387,Chiller Off
+27-Jun,22:00,Afternoon,4477,3.5,486,222,8.4,Chocolate,1136,Idle
+27-Jun,23:00,Afternoon,4508,4.0,517,327,8.1,Chocolate,1366,Normal
+28-Jun,0:00,Night,3595,4.5,499,349,5.4,Coffee,1399,Boiler High
+28-Jun,1:00,Night,5187,4.3,601,216,7.6,Frozen Foods,1183,Normal
+28-Jun,2:00,Night,4162,4.0,468,268,7.9,Dairy,1075,Chiller Off
+28-Jun,3:00,Night,4713,4.4,549,307,8.3,Frozen Foods,1286,Chiller High
+28-Jun,4:00,Night,3536,4.5,509,338,6.3,Frozen Foods,1374,Boiler High
+28-Jun,5:00,Night,4892,4.2,616,293,4.2,Chocolate,1141,Chiller Off
+28-Jun,6:00,Night,5048,3.3,538,214,4.5,Dairy,1236,Chiller Off
+28-Jun,7:00,Night,3778,3.7,595,290,4.8,Frozen Foods,1024,Chiller Off
+28-Jun,8:00,Morning,3716,4.3,596,232,6.6,Chocolate,1289,Boiler High
+28-Jun,9:00,Morning,4366,3.5,613,324,3.2,Frozen Foods,1066,Boiler High
+28-Jun,10:00,Morning,4372,4.3,632,215,6.8,Frozen Foods,1249,Idle
+28-Jun,11:00,Morning,4796,3.4,518,265,5.2,Chocolate,1117,Idle
+28-Jun,12:00,Morning,3561,3.3,624,246,4.8,Chocolate,1072,Normal
+28-Jun,13:00,Morning,4095,3.7,498,347,8.3,Chocolate,1281,Boiler High
+28-Jun,14:00,Morning,4228,3.2,557,323,5.8,Dairy,1359,Boiler High
+28-Jun,15:00,Morning,4865,4.4,610,200,3.6,Frozen Foods,1309,Scheduling Issue
+28-Jun,16:00,Afternoon,3896,4.3,568,286,8.0,Chocolate,1210,Idle
+28-Jun,17:00,Afternoon,4198,4.2,598,327,3.3,Coffee,1322,Chiller Off
+28-Jun,18:00,Afternoon,4542,4.0,599,266,7.4,Frozen Foods,1151,Chiller High
+28-Jun,19:00,Afternoon,3676,3.5,625,0,5.57828204,Coffee,1154,Chiller Waste
+28-Jun,20:00,Afternoon,5135,3.9,486,246,5.1,Dairy,1194,Boiler High
+28-Jun,21:00,Afternoon,3895,4.0,592,237,7.9,Chocolate,1282,Idle
+28-Jun,22:00,Afternoon,3944,3.9,612,342,6.1,Coffee,1112,Normal
+28-Jun,23:00,Afternoon,4756,3.5,648,220,5.8,Dairy,1270,Boiler High
+29-Jun,0:00,Night,3575,3.9,609,256,3.3,Chocolate,1162,Normal
+29-Jun,1:00,Night,3764,3.8,460,316,4.7,Coffee,1104,Boiler High
+29-Jun,2:00,Night,3954,4.5,587,245,8.6,Coffee,1180,Idle
+29-Jun,3:00,Night,4217,4.4,527,341,5.4,Dairy,1043,Chiller Off
+29-Jun,4:00,Night,4234,3.8,526,344,6.3,Chocolate,1281,Chiller High
+29-Jun,5:00,Night,4907,4.0,634,238,6.2,Chocolate,1174,Normal
+29-Jun,6:00,Night,5087,4.2,602,336,6.5,Coffee,1161,Idle
+29-Jun,7:00,Night,4350,3.2,451,298,3.4,Coffee,1350,Chiller Off
+29-Jun,8:00,Morning,5029,4.4,513,276,5.2,Coffee,1339,Idle
+29-Jun,9:00,Morning,4890,4.3,484,314,7.3,Chocolate,1439,Scheduling Issue
+29-Jun,10:00,Morning,3643,3.8,456,333,4.2,Dairy,1131,Chiller High
+29-Jun,11:00,Morning,4384,3.7,534,290,4.2,Dairy,1086,Idle
+29-Jun,12:00,Morning,4592,3.6,595,297,3.1,Chocolate,1175,Boiler High
+29-Jun,13:00,Morning,4622,3.8,516,319,5.6,Frozen Foods,1182,Chiller Off
+29-Jun,14:00,Morning,3895,3.3,491,245,8.3,Dairy,1367,Idle
+29-Jun,15:00,Morning,4548,4.3,567,237,3.3,Coffee,1128,Chiller Off
+29-Jun,16:00,Afternoon,4447,3.2,574,341,4.1,Frozen Foods,1245,Boiler High
+29-Jun,17:00,Afternoon,4390,3.6,616,299,4.9,Frozen Foods,1088,Chiller High
+29-Jun,18:00,Afternoon,4992,4.4,618,271,7.4,Dairy,1065,Chiller High
+29-Jun,19:00,Afternoon,5007,4.2,473,234,6.8,Frozen Foods,1157,Boiler High
+29-Jun,20:00,Afternoon,5088,3.6,637,346,5.5,Frozen Foods,1386,Chiller Off
+29-Jun,21:00,Afternoon,4674,3.5,495,229,7.6,Dairy,1677,Scheduling Issue
+29-Jun,22:00,Afternoon,4667,3.2,468,277,6.7,Dairy,1148,Boiler High
+29-Jun,23:00,Afternoon,4068,4.1,517,283,8.4,Frozen Foods,1339,Normal
+30-Jun,0:00,Night,4562,3.3,551,312,7.9,Coffee,1115,Chiller Off
+30-Jun,1:00,Night,3608,3.9,491,224,4.5,Chocolate,1213,Chiller High
+30-Jun,2:00,Night,4565,4.5,481,287,4.6,Frozen Foods,1371,Boiler High
+30-Jun,3:00,Night,4709,3.3,616,213,3.8,Frozen Foods,1293,Chiller High
+30-Jun,4:00,Night,4434,4.4,558,301,5.0,Coffee,1252,Chiller Off
+30-Jun,5:00,Night,3897,4.5,485,349,9.0,Frozen Foods,1142,Chiller High
+30-Jun,6:00,Night,4746,3.3,546,282,5.4,Frozen Foods,1249,Boiler High
+30-Jun,7:00,Night,4133,4.3,613,309,4.3,Chocolate,1365,Chiller Off
+30-Jun,8:00,Morning,4656,3.9,580,330,7.6,Chocolate,1301,Normal
+30-Jun,9:00,Morning,4686,4.4,522,218,6.3,Chocolate,1024,Boiler High
+30-Jun,10:00,Morning,4738,3.9,585,227,3.9,Dairy,1276,Idle
+30-Jun,11:00,Morning,4232,4.1,546,270,5.3,Dairy,1376,Boiler High
+30-Jun,12:00,Morning,3734,3.9,572,262,5.5,Chocolate,1377,Chiller Off
+30-Jun,13:00,Morning,4157,4.3,519,272,7.5,Chocolate,1388,Boiler High
+30-Jun,14:00,Morning,4250,4.2,618,323,3.1,Dairy,1069,Normal
+30-Jun,15:00,Morning,4087,3.9,645,0,4.946899646,Coffee,1262,Chiller Waste
+30-Jun,16:00,Afternoon,0,0.0,442,320,6.1,Frozen Foods,1562,Boiler Waste
+30-Jun,17:00,Afternoon,4597,3.5,498,218,4.6,Frozen Foods,1111,Chiller High
+30-Jun,18:00,Afternoon,4453,3.4,509,341,6.8,Chocolate,1363,Chiller Off
+30-Jun,19:00,Afternoon,3991,3.4,579,0,4.154972071,Coffee,1452,Chiller Waste
+30-Jun,20:00,Afternoon,4412,3.6,637,260,5.2,Dairy,1090,Chiller High
+30-Jun,21:00,Afternoon,4776,3.5,454,229,8.7,Chocolate,1017,Normal
+30-Jun,22:00,Afternoon,4753,4.4,621,208,6.8,Coffee,1148,Normal
+30-Jun,23:00,Afternoon,5042,3.3,476,263,3.8,Coffee,1226,Boiler High

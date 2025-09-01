@@ -19,8 +19,8 @@ def format_dates(dates):
 # -----------------------------
 np.random.seed(42)
 
-n_days = 30
-hours_per_day = 24
+n_days = 30 #The whole month of June
+hours_per_day = 24 # hours per day
 n_rows = n_days * hours_per_day  # 720 rows
 
 product_lines = ["Chocolate", "Dairy", "Coffee", "Frozen Foods"]
@@ -31,7 +31,6 @@ date_rng = pd.date_range(start="2025-06-01", periods=n_rows, freq="h")
 
 data = {
     "Date": date_rng,  # keep datetime for plotting
-    "Hour": date_rng.strftime("%H:%M"),  # military time
     "Shift": np.where(
         date_rng.hour < 8, "Night",
         np.where(date_rng.hour < 16, "Morning", "Afternoon")
@@ -70,7 +69,7 @@ df.loc[spike_indices, "Status"] = "Scheduling Issue"
 # -----------------------------
 # Export Dataset
 # -----------------------------
-df.to_csv("frostos_food_factory_hourly.csv", index=False)
+df.to_csv("test.csv", index=False)
 
 # -----------------------------
 # Summary Aggregates
@@ -86,27 +85,32 @@ daily_summary = df.groupby(df["Date"].dt.date).agg(
 waste_daily = df[df["Status"].isin(["Boiler Waste","Chiller Waste","Scheduling Issue"])].groupby(df["Date"].dt.date).size()
 
 # -----------------------------
-# 1. Average Energy Cost per Shift (Bar Chart)
+# 1. Status Distribution Pie Chart with Legend
 # -----------------------------
-plt.figure(figsize=(8,5))
-sns.barplot(data=df, x="Shift", y="Energy_Cost_USD", ci=None)
-plt.title("Average Energy Cost per Shift")
-plt.ylabel("Avg Cost (USD)")
-plt.xlabel("")
+plt.figure(figsize=(10,6))
+status_counts = df['Status'].value_counts()
+plt.pie(status_counts, labels=None, autopct='%1.1f%%', startangle=90)
+plt.title("Status Distribution (June 2025)")
+plt.legend(status_counts.index, title="Status", loc="center left", bbox_to_anchor=(1, 0.5))
 plt.show()
 
 # -----------------------------
-# 2. Boiler vs Chiller Load (Scatter by Status)
+# 2. Average Energy Cost per Shift (Bar Chart)
 # -----------------------------
-plt.figure(figsize=(8,6))
-sns.scatterplot(
-    data=df, x="Boiler_Load_kg_hr", y="Chiller_Load_kW",
-    hue="Status", palette="Set1", alpha=0.7
-)
-plt.title("Boiler Load vs Chiller Load (Colored by Status)")
-plt.xlabel("Boiler Load (kg/hr)")
-plt.ylabel("Chiller Load (kW)")
-plt.legend(bbox_to_anchor=(1, 1))
+plt.figure(figsize=(8,5))
+sns.barplot(data=df, x="Shift", y="Energy_Cost_USD", errorbar=None)
+
+# Calculate the average energy cost per shift
+avg_energy_cost_per_shift = df.groupby("Shift")["Energy_Cost_USD"].mean()
+
+# Add the average values as text below the chart
+y_offset = 30  # Offset to place the text slightly below the plot
+for i, (shift, avg_cost) in enumerate(avg_energy_cost_per_shift.items()):
+    plt.text(i, y_offset, f'{avg_cost:.2f}', ha='center', fontsize=12, fontweight='bold')
+
+plt.title("Average Energy Cost per Shift")
+plt.ylabel("Avg Cost (USD)")
+plt.xlabel("")
 plt.show()
 
 # -----------------------------
@@ -166,50 +170,17 @@ plt.xticks(rotation=45)
 plt.legend(title="Shift")
 plt.show()
 
-# -----------------------------
-# 6. Daily Waste Events by Product Line (Line Chart)
-# -----------------------------
-waste_product_daily = waste_daily.groupby([waste_daily["Date"].dt.date, "Product_Line"]).size().unstack()
-plt.figure(figsize=(12,6))
-for product in waste_product_daily.columns:
-    plt.plot(
-        format_dates(waste_product_daily.index),
-        waste_product_daily[product],
-        marker='o',
-        label=product
-    )
-plt.title("Daily Waste Events by Product Line")
-plt.xlabel("Date")
-plt.ylabel("Number of Waste Events")
-plt.xticks(rotation=45)
-plt.legend(title="Product Line")
-plt.show()
 
 # -----------------------------
-# 7. Daily Waste Events by Shift (Line Chart)
+# 6. Boiler vs Chiller Load (Colored by Status)
 # -----------------------------
-waste_shift_daily = waste_daily.groupby([waste_daily["Date"].dt.date, "Shift"]).size().unstack()
-plt.figure(figsize=(12,6))
-for shift in waste_shift_daily.columns:
-    plt.plot(
-        format_dates(waste_shift_daily.index),
-        waste_shift_daily[shift],
-        marker='o',
-        label=shift
-    )
-plt.title("Daily Waste Events by Shift")
-plt.xlabel("Date")
-plt.ylabel("Number of Waste Events")
-plt.xticks(rotation=45)
-plt.legend(title="Shift")
-plt.show()
-
-# -----------------------------
-# 8. Status Distribution Pie Chart with Legend
-# -----------------------------
-plt.figure(figsize=(7,7))
-status_counts = df['Status'].value_counts()
-plt.pie(status_counts, labels=None, autopct='%1.1f%%', startangle=90)
-plt.title("Status Distribution (June 2025)")
-plt.legend(status_counts.index, title="Status", loc="center left", bbox_to_anchor=(1, 0.5))
+plt.figure(figsize=(8,6))
+sns.scatterplot(
+    data=df, x="Boiler_Load_kg_hr", y="Chiller_Load_kW",
+    hue="Status", palette="Set2", alpha=0.7
+)
+plt.title("Boiler Load vs Chiller Load (Colored by Status)")
+plt.xlabel("Boiler Load (kg/hr)")
+plt.ylabel("Chiller Load (kW)")
+plt.legend(bbox_to_anchor=(.9, .5))
 plt.show()
